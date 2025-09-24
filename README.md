@@ -18,8 +18,8 @@ This project uses OpenAI Whisper, a powerful speech recognition model, to conver
     medium – Very accurate
     large – Highest accuracy, slower and requires more resources
 
-- Install required packages:
+# Install required packages:
 
-pip install --upgrade pip setuptools wheel
-pip install openai-whisper ffmpeg-python
-pip install torch      
+-pip install --upgrade pip setuptools wheel
+-pip install openai-whisper ffmpeg-python
+-pip install torch      
