@@ -23,4 +23,6 @@ This project uses OpenAI Whisper, a powerful speech recognition model, to conver
 - pip install --upgrade pip setuptools wheel.
 - pip install openai-whisper ffmpeg-python.
 - pip install torch.
+
+
 ![ProjectPlan](https://github.com/user-attachments/assets/2ddb9e5b-1f5b-4204-87ad-864f0dc3c189)
