@@ -4,7 +4,7 @@ from whisper.utils import get_writer
 import warnings
 warnings.filterwarnings("ignore", message=".*FP16 is not supported on CPU.*")
 
-# Load Whisper model
+# Load Whisper model.
 model = whisper.load_model("base")   # you can also try "small", "medium", or "large"
 
 # Input video and output folder & Run transcription
@@ -49,3 +49,4 @@ print("Saved SRT in", output_dir)
 #     f.write(final_summary)
 #
 # print("Saved Summary TXT in", summary_path)
+
