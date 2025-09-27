@@ -18,6 +18,16 @@ This project uses OpenAI Whisper, a powerful speech recognition model, to conver
     medium – Very accurate
     large – Highest accuracy, slower and requires more resources
 
+ ## 🚀 Use Cases
+
+Creating subtitles for YouTube videos
+
+Converting lectures, podcasts, or interviews into readable text
+
+Making videos accessible to non-native speakers
+
+Quickly generating summaries for long videos or meetings
+
 ## Install required packages:
 
 - pip install --upgrade pip setuptools wheel.
