@@ -14,7 +14,7 @@ output_dir = r"D:\whisper"
 result = model.transcribe(video_path)
 print("Transcript:\n", result["text"])
 
-# Save SRT file
+# Save SRT file.
 srt_writer = get_writer("srt", str(output_dir))
 srt_writer(result, video_path)
 
@@ -49,6 +49,7 @@ print("Saved SRT in", output_dir)
 #     f.write(final_summary)
 #
 # print("Saved Summary TXT in", summary_path)
+
 
 
 
