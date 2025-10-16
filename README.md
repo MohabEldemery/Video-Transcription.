@@ -35,4 +35,5 @@ Quickly generating summaries for long videos or meetings
 - pip install torch.
 
 
+
 ![ProjectPlan](https://github.com/user-attachments/assets/2ddb9e5b-1f5b-4204-87ad-864f0dc3c189)
